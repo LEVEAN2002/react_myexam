@@ -1,0 +1,46 @@
+
+*{margin: 0 ;
+    padding: 0;}
+form{background-color: rgb(241, 237, 232);}
+
+.search_img{width: 27px;
+    }
+.title{
+    margin-top: 100px;
+    font-size: 25px;
+}
+.input_seach{height: 25px; 
+            width: 100%;}
+
+.seach_div{display: flex;
+          
+            }
+.seach{flex:1; margin-right: 0;}
+.search_input{flex: 20;}
+.input_text{width: 100%;
+            height: 25px;}
+table{width: 100%;
+    text-align: left;
+}
+tr td:first-child{
+    width: 15%;
+}
+tr{height: 50px;}
+.getdb{
+    width: 100%;
+
+}
+.getdb tr{height: 30px;}
+.getdb td{width: 25%;}
+.id{width: 3%;}
+.name{width: 40%;}
+.author{width: 30%;}
+.date{width: 27%;}
+.title{
+    font-size: 20px;
+    margin: 0 0 ;
+}
+.add{text-align: right;}
+button{background-color: aquamarine;
+padding: 3px 10px;}
+.conten{margin: 100px;}
